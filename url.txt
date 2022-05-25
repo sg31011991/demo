@@ -1,0 +1,1 @@
+https://blog.cubieserver.de/2020/migrating-data-from-one-dynamodb-table-to-another-one/
